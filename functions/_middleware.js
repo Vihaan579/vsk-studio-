@@ -2,7 +2,8 @@
 
 // 1) Add the IPs you want to block (one per line, in quotes, with a comma).
 const BLOCKED_IPS = [
-  // "203.0.113.45",
+  "121.74.216.93",
+  "2407:7000:ae40:8800:c488:de68:ddd4:8f5e",
 ];
 
 // 2) Optional: block whole countries by 2-letter code, e.g. "RU".
